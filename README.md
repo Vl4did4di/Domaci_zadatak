@@ -8,3 +8,7 @@ Program koji na osnovu unete duzine **dijagonale** kvadrata d izracunava **povrs
 $$
 a = \frac{\sqrt{2}}{2} \cdot d
 $$
+
+### Algoritamska sema
+![Algoritamsko resenje zadatka]
+
