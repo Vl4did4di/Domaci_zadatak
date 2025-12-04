@@ -1,14 +1,10 @@
-using System;
+# Domaci zadatak iz tehnicke dokumentacije
 
-class Program
-{
-    static void Main()
-    {
-        Console.Write("Unesi dužinu dijagonale kvadrata d: ");
-        double d = double.Parse(Console.ReadLine());
+##Zadatak
 
-        double a = d / Math.Sqrt(2);
+Program koji na osnovu unete duzine **dijagonale** kvadrata d izracunava **povrsinu** kvadrata P
 
-        Console.WriteLine("Dužina stranice kvadrata je: " + a);
-    }
-}
+## Formula 
+$$
+a = \frac{\sqrt{2}}{2} \cdot d
+$$
