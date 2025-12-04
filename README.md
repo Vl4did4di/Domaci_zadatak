@@ -10,5 +10,6 @@ a = \frac{\sqrt{2}}{2} \cdot d
 $$
 
 ### Algoritamska sema
-![Algoritamsko resenje zadatka]
+![Algoritamsko resenje zadatka](flowchart.png)
+
 
